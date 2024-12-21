@@ -1,0 +1,1 @@
+to run the project you have to install the packages in the src.py file and the model file is the model to get the weights and you have to get an api key to get download the dataset from Kaggle 
